@@ -1,0 +1,59 @@
+Lab 3 Report – Malware Case Study
+Student Name: Luke Horner
+Date: 2025-09-03
+Course: CYBR-1100 Security Awareness
+Week 3 Assignment
+
+
+Malware Type
+
+Instructions: 
+Identify and define the malware discussed in your selected Chapter 3 Case/Hands-On Project.
+
+
+Response:
+
+A logic bomb is a type of malware that remains dormant until a specific condition or trigger event is met.
+
+Infection Method & Symptoms
+
+Instructions: 
+Explain how the malware spreads and what symptoms appear on an infected system.
+
+
+Response:
+
+Logic bombs have many ways they spread, including insider placement, compromised software updates, infected files or binaries, removable media, and privilege escalation. Common symptoms include sudden data corruption or deletion, unexpected changes to critical configuration files or binaries, unexpected process execution, and network anomalies. 
+
+Evidence
+
+Instructions: 
+Insert notes, screenshots, or log excerpts collected during the guided lab.
+
+
+Response:
+
+There was no guided lab.
+
+Defenses & Mitigations
+
+Instructions: 
+List at least three concrete defenses or countermeasures.
+
+
+Response:
+
+File Integrity Monitoring (FIM) and Code Signing
+Change Management and Access Control
+Behavioral Monitoring and EDR (Endpoint Detection and Response) 
+
+NetAcad Linkage
+
+Instructions: 
+Explain how this connects to NetAcad Modules 2.1–2.2 (Analyzing a Cyber Attack, Methods of Infiltration).
+
+
+Response:
+
+This connects to NetAcad Modules 2.1-2.2 by showing what types of symptoms appear with different types of malware. The symptoms of a logic bomb are similar to other types of malware that were shown on NetAcad 2.2. These symptoms include modified or deleted files and unknown processes running.
+
