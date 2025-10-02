@@ -1,0 +1,7 @@
+In this module, several privacy best practices were reviewed. I scored each one twice—once on how strong the privacy protection was (1–5) and once on how likely I’d be to follow it (A–F). For example, using strong
+and unique passwords I rated a 5 for privacy strength and gave myself an A for likelihood because I already use a password manager. Turning on two-factor authentication was also a 5 for strength, but I gave myself
+a B since sometimes it feels inconvenient. Regularly clearing cookies and browser history I scored as a 3 for privacy protection and a C for likelihood because I don’t always remember to do it. Limiting what 
+personal information I share on social media was a 4 for privacy and an A for likelihood because I’m already pretty careful. I also asked three friends to score the practices. They mostly agreed with my ratings but 
+admitted they were less likely to follow through, especially with things like regularly clearing cookies or checking app permissions. Most of them gave lower grades for their own likelihood, which shows how common 
+it is to know the right practices but not always use them. Based on what I learned, I came up with three new privacy best practices. First, regularly check device privacy settings since updates sometimes change
+defaults. Second, avoid using free Wi-Fi without a VPN to keep information safe on public networks. Third, review app permissions every few months and remove ones that don’t make sense. 
