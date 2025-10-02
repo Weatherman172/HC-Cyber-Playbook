@@ -1,0 +1,6 @@
+Right now, privacy laws are improving but still not enough to fully protect users. In Europe, the GDPR is one of the strongest laws—it givespeople rights like accessing or deleting their data, and companies
+can face big fines for breaking the rules. In the U.S., things are less clear. California has the CCPA and CPRA, which are strong laws, but other states all have different rules, making it confusing. A national law
+has been talked about, but it hasn’t passed yet. So, are today’s laws enough? Not really. They’re better than nothing, but companies still find ways to collect and use personal data through ads, tracking, and
+confusing consent forms. Enforcement is also uneven, meaning some violations slip by. What should be done? A federal U.S. privacy law would help, setting one clear standard across the country. That law should limit
+how much data companies can collect, give users an easy way to opt out of targeted ads, and ban tricky design tactics that hide the truth. Also, companies should be required to build privacy into their technology by
+default. Personally, I beleive targeted ads and any tracking information used by companies should be banned altogether. Our personal lives and information should be far away from the government and companies. 
