@@ -1,0 +1,8 @@
+Virtual Private Networks (VPNs) are supposed to make internet use safer by hiding your online activity, but not all providers live up to that promise. In the past, some VPNs have  actually harmed user privacy instead
+of protecting it. For example, Hola VPN was caught selling users’ bandwidth and turning them into exit nodes for strangers, which created big security risks. Another example is PureVPN, which claimed to have a
+no-log policy but in 2017 provided user data to the FBI in a cyberstalking case. These incidents showed that not every VPN could be trusted, even if they promised privacy. To check how VPNs handle privacy today, I
+looked at the Terms of Service for three popular ones: NordVPN, ExpressVPN, and ProtonVPN. NordVPN and ExpressVPN both clearly state that they follow a strict no-logs policy, meaning they do not store browsing
+history, connection timestamps, or IP addresses. ProtonVPN also emphasizes its no-logs policy and even highlights that it is based in Switzerland, a country with strong privacy laws. But how can users verify these 
+claims? One way is through independent audits. Recently, both NordVPN and ExpressVPN have gone through third-party security audits to confirm their no-logs policies. ProtonVPN has also had parts of its infrastructure
+reviewed and published transparency reports to back up its claims. Based on this research, I would choose ProtonVPN. Its strong legal protections under Swiss law, transparency reports, and focus on open-source
+security tools make it stand out. While no VPN is perfect, choosing one with independent audits and a strong privacy record gives users more confidence that their data will stay safe.
