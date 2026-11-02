@@ -1,0 +1,10 @@
+# Calculate the number of seconds in a given number of hours.
+
+hours = 2
+seconds_per_hour = 3600
+
+total_seconds = hours * seconds_per_hour
+
+print("Hours:", hours)
+print("Seconds in hours:", total_seconds)
+print("Goodbye")
